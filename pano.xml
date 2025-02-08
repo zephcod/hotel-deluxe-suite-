@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" start="node6" appversion="6.1.11">
+  <panorama id="node6">
+    <input levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingpitch="0" width="3000" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" leveltilesize="510">
+      <level predecode="0" preload="0" width="3000" height="3000"/>
+      <level predecode="0" preload="0" width="1500" height="1500"/>
+      <level predecode="0" preload="0" width="750" height="750"/>
+      <level predecode="1" preload="1" width="375" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata heading="0" nodeid="node6" datetime="2/4/2024 7:06 PM" info="" author="" comment="" source="" customnodeid="" latitude="" copyright="" title="" tags="pano" longitude="" description=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderradius="1" wordwrap="1" borderalpha="1" textcolor="0x000000" border="1" width="180" background="1" textalpha="1" height="20" enabled="1" backgroundalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-27.59" id="Point01" target="" skinid="ht_info" url="" pan="-72.23" title="Wall Mounted Toilet" description=""/>
+      <hotspot tilt="56.78" id="Point02" target="" skinid="ht_info" url="" pan="-71.89" title="DC Electric Fan Heater" description=""/>
+      <hotspot tilt="47.57" id="Point03" target="" skinid="ht_info" url="" pan="-77.01" title="Slim Exhaust Fan" description=""/>
+      <hotspot tilt="71.53" id="Point04" target="" skinid="ht_info" url="" pan="-1.61" title="LED Light with Sensor Switch" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="3.5" zoomout="0" zoomafterinfov="90" zoomafteroutfov="20" zoomoutpause="1" blendcolor="0x000000" zoomin="6" blendtime="1" softedge="0" enabled="1" type="crossdissolve" zoomfov="20"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" sensitivity="8" rubberband="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" lockedmouse="0" contextprojections="0" simulatemass="1" speedwheel="1" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata heading="0" nodeid="master" datetime="" info="" author="" comment="" source="" customnodeid="" latitude="" copyright="" title="" tags="" longitude="" description=""/>
+  </masternode>
+</tour>
